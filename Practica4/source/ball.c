@@ -50,7 +50,7 @@ void ballUpdate( ball* b, mm_sound_effect* ambulance )
     }
     else
     {
-        mm_sfxhand amb = mmEffectEx(ambulance);
+        mmEffectEx(ambulance);
         b->height = c_diam << 8;
     }
 }

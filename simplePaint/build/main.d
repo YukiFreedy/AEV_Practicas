@@ -58,7 +58,10 @@ main.o: /home/yuki/Desktop/AEV/prac2/simplePaint/source/main.cpp \
  /opt/devkitpro/libnds/include/nds/arm9/trig_lut.h \
  /opt/devkitpro/libnds/include/nds/arm9/video.h \
  /opt/devkitpro/libnds/include/nds/arm9/videoGL.h \
- /opt/devkitpro/libnds/include/nds/arm9/nand.h
+ /opt/devkitpro/libnds/include/nds/arm9/nand.h \
+ /opt/devkitpro/libnds/include/fat.h \
+ /opt/devkitpro/libnds/include/libfatversion.h \
+ /opt/devkitpro/libnds/include/nds/disc_io.h
 
 /opt/devkitpro/libnds/include/nds.h:
 
@@ -179,3 +182,9 @@ main.o: /home/yuki/Desktop/AEV/prac2/simplePaint/source/main.cpp \
 /opt/devkitpro/libnds/include/nds/arm9/videoGL.h:
 
 /opt/devkitpro/libnds/include/nds/arm9/nand.h:
+
+/opt/devkitpro/libnds/include/fat.h:
+
+/opt/devkitpro/libnds/include/libfatversion.h:
+
+/opt/devkitpro/libnds/include/nds/disc_io.h:
